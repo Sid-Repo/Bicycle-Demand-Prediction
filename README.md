@@ -10,7 +10,11 @@ Dataset source: https://www.kaggle.com/c/bike-sharing-demand/data
 # Library version
 
 Numpy: 1.19.5
+
 Pandas: 1.3.4
+
 Matplotlib: 3.4.3
+
 Seaborn: 0.11.2
+
 Sklearn: 1.0.2
