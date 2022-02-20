@@ -1,4 +1,4 @@
-# Rental Bicycle/Bike Demand Prediction
+# Rental Bicycle (Bike) Demand Prediction
 Project for analyzing and predicting the rental bicycle demand. 
 
 Exploratory data analysis was performed and various models such as Linear Regression, Decision Trees, Random Forest, XGBoost were evaluated to find the best model.
